@@ -1,4 +1,4 @@
-# DM-ADR-001: DEMO
+# DM-ADR-001: DEMO-Updated
 
 **Status:** approved
 **Date:** 2026-06-15
