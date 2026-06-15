@@ -3,7 +3,7 @@
 **Status:** approved
 **Date:** 2026-06-15
 
-**Tags:** messaging, kafka, notifications
+**Tags:** messaging, kafka, notifications, db, ohh
 
 ## Context
 
