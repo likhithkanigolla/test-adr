@@ -1,7 +1,7 @@
 # DM-ADR-004: Title: Tenant Registration API Migration
 
-**Status:** approved
-**Date:** 2026-10-27
+**Status:** rejected
+**Date:** 2026-10-29
 
 ## Context
 
@@ -17,3 +17,7 @@ The existing tenant onboarding process (V1) is implemented to handle tenant regi
 
 - API consumers must migrate to the new endpoints and adopt request-based operations using request_id.
 - Registration no longer directly creates a tenant; it creates a pending onboarding request that follows an approval or rejection workflow.
+
+## Alternatives Considered
+
+jj
